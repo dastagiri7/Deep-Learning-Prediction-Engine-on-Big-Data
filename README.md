@@ -3,7 +3,7 @@
 ## Motivation:
 To mitigate the housing business in a specific region, the proposed model helps to predict the best feasible pricing(real-estate).
 
-Requirements:
+**Requirements**:
 Python3, TensorFlow, Keras, Hadoop 3.2.1 or above.
 
 ## Project pipeline
